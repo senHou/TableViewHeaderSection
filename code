@@ -1,0 +1,13 @@
+git config --global user.name "Your Name"
+git config --global user.email hsyy_1987@hotmail.com
+
+Next steps:
+mkdir TableViewHeaderSection
+cd TableViewHeaderSection
+git init
+touch README
+git add README
+git commit -m 'first commit'
+git remote add origin git@github.com:senHou/TableViewHeaderSection.git
+git push -u origin master
+
